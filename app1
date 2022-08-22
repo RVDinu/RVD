@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "It is new application"
+echo "It is for E-Commers platform"
